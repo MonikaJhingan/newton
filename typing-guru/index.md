@@ -1,4 +1,3 @@
-- index.md
 - home-row
 	- keys_f_j.md
 	- keys_space_bar_with_f_j.md
