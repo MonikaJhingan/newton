@@ -1,0 +1,18 @@
+{
+    "why_key1": "नाम: मुझे `Python` सीखने की आवश्यकता क्यों है ??\n",
+    "why_key2": "[अंग्रेजी में `Python` का परिचय`\n](https://www.youtube.com/watch?v=UlpurGz1-TU&t=9s)",
+    "why_key3": "[`Python` का हिंदी में परिचय\n](https://www.youtube.com/watch?v=iWNpVTYSt74)\n",
+    "why_key4": "### `Python2` और `Python3` के बीच अंतर\n\n\n",
+    "why_key5": "** `Python2` **\n",
+    "why_key6": "यह `python` का पुराना संस्करण है।\n",
+    "why_key7": "`Python2` में एक प्रिंट स्टेटमेंट होता है।\n",
+    "why_key8": "में `Python2` छपाई करते समय हम इस तरह लिखते हैं,\n\n\n\n",
+    "why_key9": "`Python2` में हम उपयोगकर्ता इनपुट के लिए raw_input ka उपयोग का उपयोग करते हैं।\n\n\n",
+    "why_key10": "`Python2` में 31 कीवर्ड हैं।\n\n\n\n\n",
+    "why_key11": "** `Python3` **\n",
+    "why_key12": "यह `python` का नया संस्करण है।\n",
+    "why_key13": "`Python3` में एक प्रिंट() है।\n",
+    "why_key14": "`Python3` me में प्रिंट करते समय हम कोष्ठक () का उपयोग करते हैं।\n",
+    "why_key15": "`Python3` में हम उपयोगकर्ता के इनपुट के लिए इनपुट का उपयोग करते हैं।\n",
+    "why_key16": "`Python3` में 35 कीवर्ड हैं।\n"
+}
