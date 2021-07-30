@@ -3,13 +3,13 @@ name: Boolean Data Type
 submission_type: url
 ```
 
-### `Boolean` data type
+## `Boolean Data Type`
 
 `Boolean` is a common data type of all `programming` languages. `Boolean` returns two values.
 
-*`True`*
+`True`
 
-*`False`*
+`False`
 
 **Example :-**
 
@@ -21,7 +21,7 @@ print(bool(a))
 
 `False`
 
-`Because empty string is false.`
+(Because empty string is false.)
 
 **Example :-**
 ```python
@@ -29,11 +29,13 @@ b=("megha")
 print(bool(b))
 ```
 **Output :-**
+
 `True`
 
-`Because any string is true except empty.`
+(Because any string is true except empty.)
 
 **Example :-**
+
 ```python
 print(True)
 print(type(True))
@@ -49,4 +51,3 @@ print(type(False))
 `False`
 
 `<class bool>`
-
