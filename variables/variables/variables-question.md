@@ -3,11 +3,7 @@ name: Variables Exercise 1
 submission_type: url
 ```
 
-*To answer any question you can upload the file.*
-
-*Remember python file extension is `.py`.*
-
-**Just for your ease we have broken up this question into multiple parts. But you have to do the submission in single file only.**
+**`Note`-**  To answer any question you can upload the file. Remember python file extension is `.py`. Just for your ease we have broken up this question into multiple parts. But you have to do the submission in single file only.
 
 ## Question Part 1
 
