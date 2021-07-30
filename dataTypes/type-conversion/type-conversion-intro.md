@@ -3,9 +3,9 @@ name: Conversion
 ```
 
   
-**Note : Remember to run all the code examples and see them. Only by trying them will you be able to learn.**
+**`Note`-** Remember to run all the code examples and see them. Only by trying them will you be able to learn.**
 
-# `What is Type Conversion`?
+## `What is Type Conversion`?
 
 In the previous sections, we understood that there are different types of data types in Python. Some of the types we have read about are :
 
@@ -40,7 +40,7 @@ We can convert our data from one `type` to another `data type` in python. This w
 6.`String to Integer`
 
 
-# `String to Integer & String to Float`
+### `String to Integer & String to Float`
 Now let us see how to convert to `Integer`. `Type cast 12` to Python `Integer` and store 12.
 
 ```python
@@ -70,7 +70,7 @@ print (type(var_a))
 print (type(var_b))
 ```
 
-# `Float to Integer & Float to String`
+### `Float to Integer & Float to String`
 
 Converts any `float` to Python `integer` by removing its decimal part.
 
@@ -109,7 +109,7 @@ print (type(var_a))
 print (type(var_b))
 ```
 
-# `Integer to Float & Integer to String`
+### `Integer to Float & Integer to String`
 
   
 Python simply adds the decimal point when we convert `INTEGER` to `FLOAT`.
