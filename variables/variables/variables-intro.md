@@ -6,10 +6,13 @@ name: Variables
 
 **VARIABLE** is a memory/location in which the data is stored. Whose value we can change that is called a VARIABLE. You can give any name to the **VARIABLE** and you can store anything in the variable.
 
+
 1. Just as we can store `123` in a VARIABLE named as `variable_x`.
 2. Similarly we can put `9999` in a VARIABLE named as `a`.
 
-As you remember that 123 and 9999 are INTEGERS.
+As you remember that `123` and `9999` are INTEGERS.
+
+**Example :-**
 
 ```python
 variable_x=123
@@ -36,6 +39,8 @@ print (variable_x)
 
 As you remember that `9.9` is float. That means we can give different values to a variable. Value of `a`is not changed because we have not updated it. Now we can update `a` and make a new variable `b`.
 
+**Example :-**
+
 ```python
 a='hello world'
 b='navgurukul'
@@ -54,6 +59,7 @@ You all have to do these questions using pen and paper. Solve all the exercises 
 To understand about the dry run of variables,please see this video.
 @[youtube](https://www.youtube.com/watch?v=9PnmC9NAvzU)
 
+**Example :-**
 
 ```python
 a = 3
@@ -107,7 +113,7 @@ a = c*2
  c = a * c
 ```
 
-To understand and verify this solution you can watch these videos.
+**`Note`-** To understand and verify this solution you can watch these videos.
 
 @[youtube](https://www.youtube.com/watch?v=fny5w_YKSc8)
 
