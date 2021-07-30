@@ -2,8 +2,9 @@
 name:  Question 1 
 submission_type: url
 ```
+## Question 1
 
-Check the type of the data and operators used :-
+Check the `type` of the data and `operators` used :-
 
 
 A.
