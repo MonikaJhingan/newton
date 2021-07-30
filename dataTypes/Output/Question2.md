@@ -2,7 +2,9 @@
 name:  Question 2
 submission_type: url
 ```
+## Question 2
 
+Give the output of the following codes:-
 
 A.
 
