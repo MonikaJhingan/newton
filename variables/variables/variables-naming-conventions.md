@@ -1,7 +1,7 @@
 ```ngMeta
 name: How to name Variables? 
 ```
-
+## How to name Variables? 
 
 It is very important to give a correct `name` to a `Variable`.  
   
@@ -28,10 +28,10 @@ Also, to give names to a variable is a skill in itself. Read this [article](http
 
 | Category           | Suggested_Rule            | Examples                                                               |
 |--------------------|---------------------------|------------------------------------------------------------------------|
-| `arrayVariables`   | usePlurals                | fruits, vegetables, etc.<br>fruits = ["apple", "banana", "guavas"]     |
+| `arrayVariables`   | `usePlurals`                | fruits, vegetables, etc.<br>fruits = ["apple", "banana", "guavas"]     |
 | `booleanVariables` |`start with is, can or has`| isOpen = True<br>canWrite = False<br>hasFruit = True                   |
-| `function_names `  | use a verb or noun        | get_user(userId)<br>calculate_total(items)<br>to_Dollars('euros', 20)  |
+| `function_names `  | `use a verb or noun`        | get_user(userId)<br>calculate_total(items)<br>to_Dollars('euros', 20)  |
 
 
 
-### P.S: Many candidates get rejected in their interviews, because they don't name the variables properly, and the company does not like this.
+**`Note`-** Many candidates get rejected in their interviews, because they don't name the variables properly, and the company does not like this.
