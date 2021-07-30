@@ -2,6 +2,8 @@
 name: Data Types 
 submission_type: url
 ```
+## Types Of Data in Python
+
 As we read the English book, every word in it is English, means the **information is in English**. Whatever knowledge we are taking from the book is data, and the language is its type.
 
 
@@ -10,7 +12,7 @@ As we read the English book, every word in it is English, means the **informatio
 The `Data type` represents a type of value that determines which operation can be performed per data. For example, `numeric`, `non-numeric` or `Boolean (true/false)` data is the most commonly used data type.
 
 
-Data Type is a very important concept in `Programming`.
+`Data Type` is a very important concept in `Programming`.
 
 We can store different type of data type in the variable. Like `Numeric`, `Characters`. Every `programming` language has data types.
 
