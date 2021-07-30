@@ -2,12 +2,13 @@
 name: Type Conversion Question 1
 submission_type: url
 ```
-### This is an exercise.
-*You can answer each question by `uploading` a file.*
+## Question
+
+**`Note`-** *You can answer each question by `uploading` a file.*
 
 *Remember python files have `.py extension`*.
 
-**For your sake, we have broken this question into several parts. But you have to submit in a single file.**
+*For your sake, we have broken this question into several parts. But you have to submit in a single file.*
 
 ## Part 1
 1.Store a `STRING` value in `var12`.
