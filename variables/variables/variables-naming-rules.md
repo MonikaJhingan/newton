@@ -3,7 +3,7 @@ name: Variable Naming Rules
 submission_type: url
 ```
 
-# Rules for naming a VARIABLE 
+## Rules for naming a VARIABLE 
 
 
 In Python for naming variables, some rules are followed. If we do not follow these rules, then the *program* is not going to be correct.  
