@@ -3,7 +3,7 @@ name: type conversion
 submission_type: url
 ```
 
-# Introduction
+## Introduction
 
 In this section, we want to take input from user using python. Then we'll also explore doing `type conversions` with that input.
 
@@ -17,7 +17,7 @@ When it runs, python will stop and a cursor will appear. Here you have to put so
 print (user_input)
 ```
 
-# One more Example
+### One more Example
 
 Let us understand this in more detail by taking an example of another input.
 
@@ -29,7 +29,7 @@ Look here that we have put a `string` inside the brackets of `raw_input`. The va
   
 If we do print `number1` in the `python shell`, then whatever value we have entered, will be printed.
 
-# `Type Conversion of User inputs`
+### `Type Conversion of User inputs`
   
 Whenever we take user input from `input` to a variable it is in the `string` type. Meaning, whatever the user puts in, `raw_input` makes it a `string`.
 ```python
@@ -48,7 +48,7 @@ number3 = int(number2)
 print (type(number3))
 ```
 
-## One more `type conversion` and `raw_input` example.
+### `Type Conversion` and `raw_input` Example.
 
 Below is a final example to understand all these things better. This example prints two numbers by taking the input and multiplying them.
 
@@ -62,4 +62,4 @@ print (number_x * number_y) # number_x aur number_y ka multiple kar ke result pr
 
 Here it is important to understand we convert `number_x` and `number_y` to integer before multiplying because with `input` we get input always in the form of a `string`.
 
-**Fun Activity :** Run this example without converting `number_x` and `number_y` to `int` and see what error occurs. Google this error and try to solve it. Talk to your friends around you, too. For this, you will have to remove the lines with `number_x = int(number_x)` and `number_y = int(number_y)`.
+**Activity :  Run this example without converting `number_x` and `number_y` to `int` and see what error occurs. Google this error and try to solve it. Talk to your friends around you, too. For this, you will have to remove the lines with `number_x = int(number_x)` and `number_y = int(number_y)`.**
